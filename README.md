@@ -20,7 +20,7 @@ Deploy an interactive dashboard (Streamlit/Dash) for clinicians.
 📂 Datasets
 1. Primary Research Dataset
 
-[BioLINCC-MESA dataset request page]([https://www.kaggle.com/competitions/widsdatathon2025](https://biolincc.nhlbi.nih.gov/studies/mesa/?utm_source=chatgpt.com))
+[BioLINCC-MESA dataset request page](https://biolincc.nhlbi.nih.gov/studies/mesa/?utm_source=chatgpt.com)
 
 Source: BioLINCC – MESA
 

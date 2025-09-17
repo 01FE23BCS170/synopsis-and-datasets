@@ -20,7 +20,7 @@ Deploy an interactive dashboard (Streamlit/Dash) for clinicians.
 📂 Datasets
 1. Primary Research Dataset
 
-MESA (Multi-Ethnic Study of Atherosclerosis)
+[BioLINCC-MESA dataset request page]([https://www.kaggle.com/competitions/widsdatathon2025](https://biolincc.nhlbi.nih.gov/studies/mesa/?utm_source=chatgpt.com))
 
 Source: BioLINCC – MESA
 
@@ -32,7 +32,7 @@ Status: Restricted access (application in progress).
 
 2. Baseline Clinical Datasets (for initial experiments)
 
-Cleveland Heart Disease Dataset
+[Cleveland Heart Disease Dataset](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)
 
 Source: UCI / Kaggle
 
@@ -40,7 +40,7 @@ Source: UCI / Kaggle
 
 Outcome: Presence/absence of heart disease.
 
-Heart Failure Clinical Records
+[Heart Failure Clinical Records](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data)
 
 Source: Kaggle
 
@@ -48,7 +48,7 @@ Source: Kaggle
 
 Outcome: Death event (yes/no).
 
-Cardiovascular Disease Dataset (70k records)
+[Cardiovascular Disease Dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
 
 Source: Kaggle
 
